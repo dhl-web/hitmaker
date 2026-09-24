@@ -1,0 +1,6 @@
+{
+  "name": "Suno AI Prompt & Songwriter",
+  "description": "Biến mọi ý tưởng, câu chuyện và bài hát tham chiếu thành bản hit Pop Ballad R&B hiện đại dễ viral, đồng thời xuất prompt chuẩn tối ưu cho Suno AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
